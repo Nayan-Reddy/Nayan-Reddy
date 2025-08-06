@@ -13,6 +13,10 @@
   <a href="mailto:nayanreddy007@gmail.com">
     <img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" alt="Email" height="50"/>
   </a>
+  &nbsp;&nbsp
+    <a href="https://nayan-reddy.github.io/Nayan-Resume/">
+    <img src="resume.gif" alt="Resume" height="50"/>
+  </a>
     <a href="https://www.linkedin.com/in/nayan-reddy-59b78a33b/">
     <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" height="60"/>
   </a>
