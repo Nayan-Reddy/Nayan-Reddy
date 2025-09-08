@@ -17,6 +17,10 @@
     <a href="https://nayan-reddy.github.io/Nayan-Resume/">
     <img src="resume.gif" alt="Resume" height="50"/>
   </a>
+    &nbsp;&nbsp
+    <a href="https://codebasics.io/portfolio/Nayan-Reddy-Soma">
+    <img src="Portfolio.gif" alt="Portfolio" height="50"/>
+  </a>
     <a href="https://www.linkedin.com/in/nayan-reddy-59b78a33b/">
     <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" height="60"/>
   </a>
